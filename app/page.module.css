@@ -165,3 +165,19 @@ a.secondary {
     filter: invert();
   }
 }
+
+
+
+.navbar {
+  display: flex;
+  justify-self: center;
+  margin-bottom: 20px;
+  margin-top: 15px;
+  padding: 9px 23px;
+  background-color: #7c7878;
+  gap: 20px;
+  font-size: 18px;
+  font-weight: 500;
+  border-radius: 6px;
+  color: white;
+}
